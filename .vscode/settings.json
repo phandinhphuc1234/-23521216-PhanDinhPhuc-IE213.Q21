@@ -1,0 +1,5 @@
+{
+    "security.allowedUNCHtrustedDomains": [
+        "https://raw.githubusercontent.com"
+    ]
+}
