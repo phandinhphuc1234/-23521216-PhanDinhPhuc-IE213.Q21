@@ -9,9 +9,12 @@
 
 - ChatGPT: giúp sửa lại các syntax của express cũ
 - Claude: giúp sửa code
-- VisualCodeStudio: giúp viết code
+- GitHub Copilot: Gắn ảnh tương ứng vào từng câu
+- VisualCodeStudio: dùng để viết code
+- Postman: Test Api
+- MongoDB Atlas và MongoBD Compass: cơ sờ liệu 
 
-## Cách chạy đồ án
+## Cách chạy code 
 
 - Đi vào thử mục Lab02 dùng cd Lab02
 - Vào tiếp thư mục backend nơi lưu dự án dùng lệnh cd backend
@@ -59,3 +62,11 @@ các định tuyến liên quan đến ứng dụng minh hoạ movies về sau.
 ![2.7.1](screenshot/2.7.1.png)
 ![2.7.2](screenshot/2.7.2.png)
 ![2.7.3](screenshot/2.7.3.png)
+
+### Đã hoàn thành
+- Hoàn thành API lấy các movie và test trên postman thành công
+- Truy vấn và lọc dữ liệu từ MongoDB Atlas thành công.
+- Có ảnh minh họa các bước thực hiện các câu hỏi
+
+### Chưa hoàn thành
+- Chưa có câu nào chưa hoàn thành
