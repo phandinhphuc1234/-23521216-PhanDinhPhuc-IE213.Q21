@@ -50,7 +50,7 @@
 ### Lab05
 
 - Mục tiêu: Theo nội dung lab 5 của môn học.
-- Kết quả: Chưa cập nhật trong repository hiện tại.
+- Kết quả: Đã hoàn thành
 - Tag nộp bài: `lab05`
 - Commit hash: điền tại thời điểm nộp.
 
@@ -80,6 +80,7 @@
 - Lab01: Hoàn thành phần MongoDB cơ bản.
 - Lab02: Hoàn thành backend API movies.
 - Lab04: Hoàn thành frontend React với navbar và routes.
+- Lab05: Hoàn thành render dữ liệu trả từ API của backend
 
 ## Ảnh minh họa
 
